@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/haiweiosu/cs5356.png?label=ready&title=Ready)](https://waffle.io/haiweiosu/cs5356)
 CS 5356: Startup Systems Design and Engineering
 ===============================================
 
